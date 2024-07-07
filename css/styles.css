@@ -3797,6 +3797,15 @@ textarea.form-control-lg {
   display: block;
 }
 
+.gai-brown-background{
+  background-color: #3F0000;
+}
+
+.gai-yellow-background{
+  background-color: #C88013;
+
+}
+
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
@@ -11168,7 +11177,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
