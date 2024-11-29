@@ -8,6 +8,25 @@
     font-size: 70px;
 }
 
+#mainNav .nav-link{
+    color:black
+}
+
+#mainNav .nav-link:hover{
+    color:red
+}
+
+body {
+    font-family: 'Merriweather', serif;
+  }
+
+.navbar link{
+    background-color: white;
+}
+
+.navbar-shrink{
+    background-color: transparent;
+}
 
 #mainNav-standalone{
     background-color: white;
