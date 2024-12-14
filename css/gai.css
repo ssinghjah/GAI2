@@ -6,15 +6,13 @@
 
 #title{
     font-size: 70px;
+    font-family: Lora;
 }
 
 #mainNav .nav-link{
     color:black
 }
 
-#title{
-    font-family: serif;
-}
 
 #mainNav .nav-link:hover{
     color:red
