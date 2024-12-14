@@ -12,6 +12,10 @@
     color:black
 }
 
+#title{
+    font-family: serif;
+}
+
 #mainNav .nav-link:hover{
     color:red
 }
