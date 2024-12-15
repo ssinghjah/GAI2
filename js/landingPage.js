@@ -6,6 +6,22 @@ $(function(){
         $("#about").hide()
     })
 
+    $("#top-logo").click(function(){
+        $("#arts").hide()
+        $("#masthead").show()
+        $("#signup").hide()
+        $("#about").hide()
+    })
+
+    $("#know-more").click(function(){
+        $("#arts").hide()
+        $("#masthead").hide()
+        $("#signup").hide()
+        $("#about").show()
+    })
+
+
+
     $("#aboutLink").click(function(){
         $("#arts").hide()
         $("#masthead").hide()
