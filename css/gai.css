@@ -13,6 +13,17 @@
     color:black
 }
 
+.green-background{
+    background-color: #516740;
+}
+
+.ochre-background{
+    background-color: #CE7E07;
+}
+
+.brown-background{
+    background-color: #3F0000
+}
 
 #mainNav .nav-link:hover{
     color:red
