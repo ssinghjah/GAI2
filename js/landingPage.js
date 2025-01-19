@@ -4,13 +4,7 @@ $(function(){
         $("#masthead").show()
         $("#signup").hide()
         $("#about").hide()
-    })
-
-    $("#top-logo").click(function(){
-        $("#arts").hide()
-        $("#masthead").show()
-        $("#signup").hide()
-        $("#about").hide()
+        $("#contacts").hide()
     })
 
     $("#know-more").click(function(){
@@ -18,15 +12,15 @@ $(function(){
         $("#masthead").hide()
         $("#signup").hide()
         $("#about").show()
+        $("#contacts").hide()
     })
-
-
 
     $("#aboutLink").click(function(){
         $("#arts").hide()
         $("#masthead").hide()
         $("#signup").hide()
         $("#about").show()
+        $("#contacts").hide()
     })
 
     $("#artsLink").click(function(){
@@ -34,6 +28,7 @@ $(function(){
         $("#about").hide()
         $("#contact").hide()
         $("#arts").show()
+        $("#contacts").hide()
     })
 
     $("#contactLink").click(function(){
@@ -41,6 +36,7 @@ $(function(){
         $("#masthead").hide()
         $("#contact").show()
         $("#about").hide()
+        $("#contacts").show()
     })
 })
     

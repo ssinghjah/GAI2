@@ -31,7 +31,8 @@
 
 body {
     font-family: 'Merriweather', serif;
-    background-color: #516740;
+    /* background-color: #516740; */
+    background-image: url("assets/img/bg-masthead.jpg");
   }
 
 #know-more{
